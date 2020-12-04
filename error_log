@@ -1,0 +1,221 @@
+[25-Nov-2020 19:02:57 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:06:56 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:07:07 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:14:49 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:18:50 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:20:46 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[25-Nov-2020 19:35:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[25-Nov-2020 19:36:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[25-Nov-2020 19:38:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[25-Nov-2020 19:38:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 08:09:32 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[26-Nov-2020 08:09:54 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[26-Nov-2020 16:10:31 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/jaibscom/public_html/stream/update.php on line 7
+[26-Nov-2020 16:10:33 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/jaibscom/public_html/stream/update.php on line 7
+[26-Nov-2020 17:07:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 17:09:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 17:39:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 18:02:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 20:28:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[26-Nov-2020 21:02:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 12:46:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 12:48:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 12:58:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:00:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:03:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:04:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:08:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:10:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:27:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 13:28:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:47:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:48:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:48:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:48:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:49:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:51:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:52:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:54:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:54:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:55:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:55:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:55:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:56:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:57:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:57:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:57:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:58:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:59:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 14:59:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 15:37:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 15:38:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 15:39:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 15:51:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 15:59:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:09:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:10:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:10:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:11:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:11:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:12:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:12:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:12:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:12:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:12:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[28-Nov-2020 22:54:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[29-Nov-2020 16:03:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[30-Nov-2020 06:33:31 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[30-Nov-2020 08:05:00 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/myfav.php on line 21
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[30-Nov-2020 08:35:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[30-Nov-2020 08:35:52 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[01-Dec-2020 12:27:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 19:36:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 19:37:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 19:37:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[01-Dec-2020 22:10:41 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[01-Dec-2020 22:10:50 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 03:05:12 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 08:31:45 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 08:32:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined index: user in /home/jaibscom/public_html/stream/profile.php on line 6
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 83
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 84
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: user_id in /home/jaibscom/public_html/stream/profile.php on line 85
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 113
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 123
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 133
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 252
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: image in /home/jaibscom/public_html/stream/profile.php on line 255
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: name in /home/jaibscom/public_html/stream/profile.php on line 261
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: dob in /home/jaibscom/public_html/stream/profile.php on line 265
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 269
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: lang in /home/jaibscom/public_html/stream/profile.php on line 270
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 08:32:29 UTC] PHP Notice:  Undefined variable: country in /home/jaibscom/public_html/stream/profile.php on line 348
+[02-Dec-2020 14:51:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 14:51:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 15:36:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 15:36:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/jaibscom/public_html/stream/inc/body.php on line 2
+[02-Dec-2020 16:04:25 UTC] PHP Notice:  Undefined variable: viewers in /home/jaibscom/public_html/stream/index.php on line 23
+[02-Dec-2020 16:04:25 UTC] PHP Notice:  Undefined variable: down in /home/jaibscom/public_html/stream/index.php on line 24
+[02-Dec-2020 16:06:14 UTC] PHP Notice:  Undefined variable: viewers in /home/jaibscom/public_html/stream/index.php on line 23
+[02-Dec-2020 16:06:14 UTC] PHP Notice:  Undefined variable: down in /home/jaibscom/public_html/stream/index.php on line 24
+[02-Dec-2020 16:07:47 UTC] PHP Notice:  Undefined variable: viewers in /home/jaibscom/public_html/stream/index.php on line 24
+[02-Dec-2020 16:07:47 UTC] PHP Notice:  Undefined variable: down in /home/jaibscom/public_html/stream/index.php on line 25
+[02-Dec-2020 16:07:56 UTC] PHP Notice:  Undefined variable: viewers in /home/jaibscom/public_html/stream/index.php on line 24
+[02-Dec-2020 16:07:56 UTC] PHP Notice:  Undefined variable: down in /home/jaibscom/public_html/stream/index.php on line 25
+[02-Dec-2020 16:08:08 UTC] PHP Notice:  Undefined variable: viewers in /home/jaibscom/public_html/stream/index.php on line 24
+[02-Dec-2020 16:08:08 UTC] PHP Notice:  Undefined variable: down in /home/jaibscom/public_html/stream/index.php on line 25
