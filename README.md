@@ -5,13 +5,13 @@ for HAHAPAL.TV hosting you have to change setting file according to this :
 
 
 /* Google App Client Id */
-define('CLIENT_ID', '390537909736-u6v5s5b2khi4idukl47gue3olohpkgd8.apps.googleusercontent.com');
+define('CLIENT_ID', 'Add here your client ID');
 
 /* Google App Client Secret */
-define('CLIENT_SECRET', 'cBH4XY-BgrAU6kYTXWsf0xeI');
+define('CLIENT_SECRET', 'Add here you secret Client ID');
 
 /* Google App Redirect Url */
-define('CLIENT_REDIRECT_URL', 'https://hahapal.tv/gauth.php');
+define('CLIENT_REDIRECT_URL', 'Add here Redirect URL Client');
 
 
 
